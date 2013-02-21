@@ -36,4 +36,4 @@ Contributors
 </tbody>
 </table>
 
-<center><a href="#NebulaCMS">Back to the top</a></center>
+<a href="#NebulaCMS" style="text-align: center;">Back to the top</a>
