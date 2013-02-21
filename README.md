@@ -89,8 +89,8 @@ Installation
 Recent Changes
 ==============
 
-<b>2/21/2013: </b> Began to Address the Extreme Whitespace Issue. <br /><br />
-<b>2/20/2013: </b> Created NebulaCMS Project.
+<b>21/FEB/2013: </b> Began to Address the Extreme Whitespace Issue. <br />
+<b>20/FEB/2013: </b> Created NebulaCMS Project.
 
 <br /><br />
 <hr />
