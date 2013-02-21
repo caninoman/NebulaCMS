@@ -83,3 +83,17 @@ Installation
 <a href="#nebulacms">Back to the top</a>
 <br />
 <hr />
+
+
+
+Recent Changes
+==============
+
+<b>2/21/2013: </b> Began to Address the Extreme Whitespace Issue. <br /><br />
+<b>2/20/2013: </b> Created NebulaCMS Project.
+
+<br /><br />
+<hr />
+<a href="#nebulacms">Back to the top</a>
+<br />
+<hr />
