@@ -50,4 +50,4 @@ License
 
 
 
-<a href="#NebulaCMS" style="text-align: center;">Back to the top</a>
+<a href="#nebulacms">Back to the top</a>
