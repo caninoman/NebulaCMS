@@ -56,6 +56,14 @@ License
 
 <a href="https://github.com/ibourgeois/NebulaCMS/blob/master/license.txt">General Public License (GPL) v3</a>
 
+<br /><br />
+<hr />
+
+Installation
+============
+
+<b>Step 1: </b> Copy the all documents and folders located in the 'webroot' directory to the public root directory of your hosting server.
+
 
 <br /><br />
 <hr />
