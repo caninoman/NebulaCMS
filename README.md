@@ -9,7 +9,7 @@ Powerful multi-site CMS for developers and designers.<br />
 <br /><br />
 <hr />
 <a href="#nebulacms">Back to the top</a>
-<br /><br /><br />
+<br />
 <hr />
 
 
@@ -53,7 +53,7 @@ Contributors
 <br /><br />
 <hr />
 <a href="#nebulacms">Back to the top</a>
-<br /><br />
+<br />
 <hr />
 
 
@@ -64,7 +64,7 @@ License
 <br /><br />
 <hr />
 <a href="#nebulacms">Back to the top</a>
-<br /><br />
+<br />
 <hr />
 
 Installation
