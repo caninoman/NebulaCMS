@@ -1,7 +1,8 @@
 NebulaCMS
 =========
 
-Powerful multi-site CMS for developers and designers.
+Powerful multi-site CMS for developers and designers.<br />
+<br />
 <a href="http://nebulacms.com" target="_blank">Visit NebulaCMS.com</a>
 <br /><br />
 <hr />
