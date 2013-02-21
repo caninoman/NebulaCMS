@@ -63,12 +63,12 @@ Installation
 ============
 
 <b>Step 1: </b> Copy the all documents and folders located INSIDE the 'webroot' directory to the public root directory of your hosting server.
-<br />
+<br /><br />
 <b>Step 2: </b> If allowed, copy the 'nebula' directory to your hosting server OUTSIDE of the public root directory. If this option is not available the 'nebula' directory caan be placed anywhere on your webserver, just be sure to annotate the path. 
-<br />
+<br /><br />
 <b>Step 3: </b> Open the 'index.php' document located in your public root directory and ensure that the path to 'wormhole.php' is correct. 
-<br /> 
-<b>Step 4: </b> (***NOTE: NO INSTALLER AT THIS TIME***) Open your favorite web browser and visit your domain to complete the installation process!
+<br /><br />
+<b>Step 4: </b> (*** NOTE: NO INSTALLER AT THIS TIME ***) Open your favorite web browser and visit your domain to complete the installation process!
 
 <br /><br />
 <hr />
