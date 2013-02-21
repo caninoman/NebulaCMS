@@ -8,6 +8,7 @@ Contributors
 ============
 
 <table>
+<thead>
   <tr>
     <td>
       Name
@@ -19,6 +20,8 @@ Contributors
       URL
     </td>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td>
       <a href="http://github.com/ibourgeois" target="_blank">Derek Bourgeois</a>
@@ -30,4 +33,5 @@ Contributors
       <a href="http://ibourgeois.com" target="_blank">http://iBourgeois.com</a>
     </td>
   </tr>
+</tbody>
 </table>
