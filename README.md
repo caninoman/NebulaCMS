@@ -20,6 +20,9 @@ Contributors
       Name
     </td>
     <td>
+      Email
+    </td>
+    <td>
       Twitter
     </td>
     <td>
@@ -31,6 +34,9 @@ Contributors
   <tr>
     <td>
       <a href="http://github.com/ibourgeois" target="_blank">Derek Bourgeois</a>
+    </td>
+    <td>
+      <a href="mailto:derek@ibourgeois.com">derek@ibourgeois.com</a>
     </td>
     <td>
       <a href="http://twitter.com/dbourgeois23" target="_blank">@dbourgeois23</a>
