@@ -38,7 +38,7 @@ Contributors
   </tr>
 </tbody>
 </table>
-
+<br /><br />
 <hr />
 
 
@@ -48,6 +48,6 @@ License
 <a href="https://github.com/ibourgeois/NebulaCMS/blob/master/license.txt">General Public License (GPL) v3</a>
 
 
-
+<br /><br />
 <hr />
 <a href="#nebulacms">Back to the top</a>
