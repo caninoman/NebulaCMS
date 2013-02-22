@@ -37,7 +37,7 @@ Installation
 
 Recent Changes
 ==============
-<b>21/FEB/2013: </b> 
+
 <b>21/FEB/2013: </b> Initiated what is known as NovaSEO... a power to which you will one day bow. <br />
 <b>21/FEB/2013: </b> Created the NebulaCMS Atlas for those that are already lost. <br />
 <b>21/FEB/2013: </b> Began to Address the Extreme Whitespace Issue. <br />
