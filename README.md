@@ -5,7 +5,7 @@ Powerful multi-site CMS for developers and designers.
 <table>
   <tr>
     <td><a href="http://demo.nebulacms.com" target="_blank">Check Out The Demo</a></td>
-    <td><a href="http://nebulacms.com" target="_blank">Visit NebulaCMS.com</a><br /><br /></td>
+    <td><a href="http://nebulacms.com" target="_blank">Visit NebulaCMS.com</a></td>
   </tr>
 </table>
 <a href="http://twitter.com/NebulaCMS" target="_blank">Follow @NebulaCMS on Twitter</a>
