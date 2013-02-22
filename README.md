@@ -9,7 +9,7 @@ Powerful multi-site CMS for developers and designers.
   </tr>
 </table>
 <a href='http://www.pledgie.com/campaigns/19306'><img alt='Click here to lend your support to: NebulaCMS and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/19306.png?skin_name=chrome' border='0' /></a>
-<a href="http://twitter.com/NebulaCMS" target="_blank">Follow @NebulaCMS on Twitter</a>
+<br /><a href="http://twitter.com/NebulaCMS" target="_blank">Follow @NebulaCMS on Twitter</a>
 and/or <a href="http://facebook.com/NebulaCMS" target="_blank">Like NebulaCMS on Facebook</a>
 <br /><br /><br /><hr /><a href="#nebulacms">Back to the top</a><br /><hr />
 
