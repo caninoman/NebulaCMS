@@ -2,8 +2,12 @@ NebulaCMS
 =========
 
 Powerful multi-site CMS for developers and designers.
-<button><a href="http://demo.nebulacms.com" target="_blank">Check Out The Demo</a></button>
-<a href="http://nebulacms.com" target="_blank">Visit NebulaCMS.com</a><br /><br />
+<table>
+  <tr>
+    <td><a href="http://demo.nebulacms.com" target="_blank">Check Out The Demo</a></td>
+    <td><a href="http://nebulacms.com" target="_blank">Visit NebulaCMS.com</a><br /><br /></td>
+  </tr>
+</table>
 <a href="http://twitter.com/NebulaCMS" target="_blank">Follow @NebulaCMS on Twitter</a>
 and/or <a href="http://facebook.com/NebulaCMS" target="_blank">Like NebulaCMS on Facebook</a>
 <br /><br /><br /><hr /><a href="#nebulacms">Back to the top</a><br /><hr />
