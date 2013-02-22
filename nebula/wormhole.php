@@ -12,6 +12,8 @@
 	**  
 	*/
 	
+	require ('config.php');
+	
 	function newWormhole($site) {
 		// DETERMINE IF REQUEST IS SUPERNOVA OR NOVA
 		if($site == 'SUPERNOVA'){
@@ -21,5 +23,5 @@
 		}
 
 	}
-
+	
 ?>
