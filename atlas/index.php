@@ -13,11 +13,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	
+		<title>A Guide to the Worlds Most Powerful CMS | NebulaCMS Atlas</title>
+		<link type="text/css" rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body>
 		<div id="header">
-			<h1>Welcome to the NebulaCMS Atlas</h1>
+			<h1>NebulaCMS Atlas</h1>
 			<h6>The Official NebulaCMS Guide.</h6>
 		</div>
 		<nav>
