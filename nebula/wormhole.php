@@ -12,15 +12,14 @@
 	**  
 	*/
 	
-	public function newWormhole($site) {
-		// $site tells us which site is requesting a new Wormhole.
-		
-		// Build the HTTP Request
-		
-		
-		// Testing connection to Wormhole
-		echo 'testing Wormhole stability.';
-		
+	function newWormhole($site) {
+		// DETERMINE IF REQUEST IS SUPERNOVA OR NOVA
+		if($site == 'SUPERNOVA'){
+			include ('test/home.php');
+		} else {
+			
+		}
+
 	}
 
 ?>
