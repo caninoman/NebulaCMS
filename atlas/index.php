@@ -2,11 +2,9 @@
 	
 	function page_switch($page){
 		switch($page) {
-			default: include('pages/main.php');
+			default: include('pages/home.php');
 			break;
-			case 'main': include('pages/main.php');
-			break;
-			case 'test': include('pages/test.php');
+			case 'home': include('pages/home.php');
 		}
 	}
 	
