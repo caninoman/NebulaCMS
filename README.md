@@ -33,7 +33,7 @@ Installation
 ============
 
 <b>Step 1: </b> There is nothing to install just yet. Please be patient as we continue to develop our way into awesomeness!
-<br /><br /><hr /><a href="#nebulacms">Back to the top</a><br /><hr />
+<br /><br /><br /><hr /><a href="#nebulacms">Back to the top</a><br /><hr />
 
 Recent Changes
 ==============
