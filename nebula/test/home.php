@@ -5,5 +5,6 @@
 	</head>
 	<body>
 		<h1>NebulaCMS</h1>
+		<p>testing...</p>
 	</body>
 </html>
