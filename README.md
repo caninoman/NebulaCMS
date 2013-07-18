@@ -1,7 +1,12 @@
 NebulaCMS
 =========
 
-Powerful multi-site CMS for developers and designers.
+A powerful multi-site CMS for developers and designers alike. Due to the vast community of PHP developers that are actively contributing to Open Source projects, we have decided upon PHP as our weapon of choice to make NebulaCMS happen. 
+
+So why build another CMS when there are so many others available? 
+
+The answer to that question is simple. As a web developer, I myself manage dozens of continuous projects and I am sure most of you are in a similar situation. You can't create enough content to go around, there is not enough time to keep <i>every</i> application up to date and that is just getting started with the list of problems!
+My solution to that is this: A centralized CMS that sits on one web server, <b>yours</b>. That way all users, content, and code can access the same data. Meanwhile, when you make an update to an application, it is deployed to all instances at once. The best part is, is that your code stays safe and secure under your control, while your customer only needs to upload a single document to their webserver to get them up and running!
 <table>
   <tr>
     <td><a href="http://demo.nebulacms.com" target="_blank">Check Out The Demo</a></td>
